@@ -39,10 +39,6 @@ Users should be able to:
 ![mobile-light](https://github.com/iamernesto14/RestCountry-App/assets/44618031/b664e14f-db54-4420-b87e-1c8e6d4946cf)
 ![mobile-detail-dark](https://github.com/iamernesto14/RestCountry-App/assets/44618031/da3ad034-6bc4-4709-b517-8211f7ea525f)
 
-### Links
-
-- Solution URL: [@github](https://github.com/iamernesto14/RestCountry-App)
-- Live Site URL: [@netlify](https://ernest-countries-app.netlify.app/)
 
 ## My process
 
@@ -66,19 +62,9 @@ This is a great React single-page application that interfaces with the REST Coun
 
 During this project, my knowledge of Tailwind CSS grew, and I incorporated its styling effects into the project. Initially, I struggled with coding the dark mode functionality, but I was very happy when I finally accomplished it. Additionally, this project is one of the various projects where I incorporated CSS Grid in Tailwind CSS, and I was extremely pleased with the results.
 
-### Useful resources
-
-1. <a href="https://www.figma.com/">Figma</a> - Paste your design image to check the size of containers, width, etc.
-2. <a href="https://chrome.google.com/webstore/detail/perfectpixel-by-welldonec/dkaagdgjmgdmbnecmcefdhjekcoceebi">Perfect Pixel</a> - Awesome Chrome extension that helps you to match the pixels of the provided design.
-3. <a href="https://restcountries.com/">Rest Countries API</a> - information about countries via a RESTful API
-4. <a href="https://www.framer.com/motion/">Google font</a>  - Provide awesome font for the project.
-4. <a href='https://stackoverflow.com/questions'>Stackoverflow</a> - Great resources for learning
 
 ## Acknowledement
 
-A big thanks to Amalitech for such a great and wonderful project. It's an honor to take this project and has really improve my programming skills.
-- Amalitech - [amalitech](https://amalitech.org/)
-- Twitter - [@AmaliTech_gGmbh](https://twitter.com/AmaliTech_gGmbh)
 <!-- ## Features
 
 - Fetches country data from the REST Countries V2 API
